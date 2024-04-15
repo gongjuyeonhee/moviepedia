@@ -1,0 +1,7 @@
+.header-box {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ededef;
+}
